@@ -99,7 +99,3 @@ SkyReveal is designed as an educational tool and does not replace professional s
 - Community sky submissions
 
 ---
-
-## License
-
-This project is licensed under the MIT License.
