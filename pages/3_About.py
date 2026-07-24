@@ -65,7 +65,7 @@ mission_col, purpose_col = st.columns(2, gap="large")
 
 with mission_col:
     with st.container(border=True):
-        st.subheader("🌍 The Problem")
+        st.subheader("The Problem")
 
         st.write(
             """
@@ -79,7 +79,7 @@ with mission_col:
 
 with purpose_col:
     with st.container(border=True):
-        st.subheader("✨ The Mission")
+        st.subheader("The Mission")
 
         st.write(
             """
